@@ -46,14 +46,14 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p>
+<p align="left">
  <a target="_blank"href="https://www.linkedin.com/in/aylin-santa-cruz-vargas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  
   <a href="mailto:santacruzaan@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthua25&show_icons=true&locale=en&layout=compact" alt="anthua25" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthua25&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="anthua25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthua25&show_icons=true&locale=en" alt="anthua25" /></p>
 

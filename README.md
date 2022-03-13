@@ -36,7 +36,9 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthua25&show_icons=true&locale=en&layout=compact" alt="anthua25" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthua25&show_icons=true&locale=en" alt="anthua25" /></p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 

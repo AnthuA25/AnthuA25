@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm [Aylin Santa Cruz Vargas]
 
 <!--
 **AnthuA25/AnthuA25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="linkedin.com/in/aylin-santa-cruz-vargas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:aylin_santacruz@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Hotmail-aylin_santacruz@hotmail.com-blue?style=flat&logo=hotmail"></a>
+</p>
+
+
+⭐️ From [@AnthuA25](https://github.com/AnthuA25)

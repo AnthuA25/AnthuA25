@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Aylin Santa Cruz Vargas
+<!-- <h1>Hi there 👋 I'm Aylin Santa Cruz Vargas</h1> -->
+<h1 align="center">Hi , I'm Aylin Santa Cruz Vargas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <h3>

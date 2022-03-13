@@ -1,5 +1,6 @@
 <!-- <h1>Hi there 👋 I'm Aylin Santa Cruz Vargas</h1> -->
 <h1 align="center">Hi , I'm Aylin Santa Cruz Vargas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=31&color=F75E94&background=FF34BF00&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <h3>

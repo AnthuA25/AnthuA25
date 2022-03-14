@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 <h4>Tools & Technologies</h4>
 <p>
@@ -60,9 +61,8 @@
 
 <h2> 🤝🏻 Connect with Me </h2>
 
-<p align="left" display="flex" flex-direction="row">
+<p>
  <a target="_blank"href="https://www.linkedin.com/in/aylin-santa-cruz-vargas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- 
   <a href="mailto:santacruzaan@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 

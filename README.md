@@ -63,7 +63,7 @@
 <p align="left">
  <a target="_blank"href="https://www.linkedin.com/in/aylin-santa-cruz-vargas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  
-  <a href="mailto:santacruzaan@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:santacruzaan@gmail.com"><img align="right" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2> 📊 Github Stats  </h2>

@@ -4,7 +4,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=31&color=F75E94&background=FF34BF00&lines=Full+Stack+Web+Developer"></a>
 </p>
 <br>
-
+ <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="240">
 
  <h4> I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
  
@@ -15,8 +15,6 @@
 - 👯 I’m looking to collaborate on open source projects
 
 - 💬 Talk to me about  New exciting job opportunities related to either Front-end or Back-end using react and node. 
-- 
- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="240">
 
 
 <br>

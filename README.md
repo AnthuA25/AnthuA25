@@ -67,9 +67,9 @@
 </p>
 
 <h2> 📊 Github Stats  </h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthua25&show_icons=true&locale=en&theme=radical" alt="anthua25" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthua25&show_icons=true&locale=en&layout=compact&theme=radical" alt="anthua25" /></p>
-<br>
-<br>
+<div>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthua25&show_icons=true&locale=en&theme=radical" alt="anthua25" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthua25&show_icons=true&locale=en&layout=compact&theme=radical" alt="anthua25" /></p>
+</div>
 
 ⭐️ From [@AnthuA25](https://github.com/AnthuA25)

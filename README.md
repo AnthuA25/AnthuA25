@@ -6,7 +6,16 @@
 <br>
 
 
- <h4>I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+ <h4> I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+ 
+- 🔭 I’m currently working on  Freelance projects
+
+<!-- - 🌱 I’m currently learning Typescript, AWS and German   -->
+
+- 👯 I’m looking to collaborate on open source projects
+
+- 💬 Talk to me about  New exciting job opportunities related to either Front-end or Back-end using react and node. 
+- 
  <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="240">
 
 

@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on open source projects
 
-- 💬 Talk to me about  New exciting job opportunities related to either Front-end or Back-end using react and node. 
+- 💬 Talk to me about  New exciting job opportunities related to either Front-end using react and node. 
 
 
 <br>

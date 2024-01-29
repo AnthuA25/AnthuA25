@@ -7,7 +7,7 @@
 <br>
  <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="240">
 
- <h4>Welcome to my github profile! I'm Aylin, a 23 year old Full Stack developer. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+ <h4 style="text-align:justify;">Welcome to my github profile! I'm Aylin, a 23 year old Full Stack developer. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
  
 - 🔭 I’m currently working on  Freelance projects
 

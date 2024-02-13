@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+ <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
 <br/>
@@ -67,10 +68,22 @@
   <a href="mailto:santacruzaan@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br/>
+<h2> 🔝 Top Contributed Repo </h2>
+<p>
+ <img src="https://github-contributor-stats.vercel.app/api?username=AnthuA25&limit=5&theme=onedark&combine_all_yearly_contributions=tru"/>
+</p>
 
 <h2> 📊 Github Stats  </h2>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthua25&show_icons=true&locale=en&theme=radical" alt="anthua25" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthua25&show_icons=true&locale=en&layout=compact&theme=radical" alt="anthua25" /></p>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthuA25&theme=radical&hide_border=false" alt="anthua25" /></p>
-
+  <table>
+ <tr>
+  <td>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthua25&show_icons=true&locale=en&theme=radical" alt="anthua25" /></p>
+  </td>
+  <td>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthua25&show_icons=true&locale=en&layout=compact&theme=radical" alt="anthua25" /></p>
+  </td>
+ </tr>
+</table>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthuA25&theme=radical&hide_border=false" alt="anthua25" /></p>
+<br/>
 ⭐️ From [@AnthuA25](https://github.com/AnthuA25)

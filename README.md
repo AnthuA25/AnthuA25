@@ -70,20 +70,19 @@
 <br/>
 <h2> 🔝 Top Contributed Repo </h2>
 <p>
- <img src="https://github-contributor-stats.vercel.app/api?username=AnthuA25&limit=5&theme=onedark&combine_all_yearly_contributions=tru"/>
+ <img src="https://github-contributor-stats.vercel.app/api?username=AnthuA25&limit=5&theme=onedark&combine_all_yearly_contributions=true"/>
 </p>
 
 <h2> 📊 Github Stats  </h2>
-  <table>
- <tr>
-  <td>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthua25&show_icons=true&locale=en&theme=radical" alt="anthua25" /></p>
-  </td>
-  <td>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthua25&show_icons=true&locale=en&layout=compact&theme=radical" alt="anthua25" /></p>
-  </td>
- </tr>
-</table>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthuA25&theme=radical&hide_border=false" alt="anthua25" /></p>
+   <p align="center">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=anthua25&show_icons=true&locale=en&theme=radical&hide_border=true" alt="anthua25" />
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthua25&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" 
+     alt="anthua25" />
+    <br/>
+    <br/>
+    <img  height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthuA25&theme=radical&hide_border=true" alt="anthua25" />
+   </p>
 <br/>
-⭐️ From [@AnthuA25](https://github.com/AnthuA25)
+
+---
+⭐️ From [AnthuA25](https://github.com/AnthuA25)

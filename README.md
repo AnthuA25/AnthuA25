@@ -77,6 +77,10 @@
   <td>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthua25&show_icons=true&locale=en&layout=compact&theme=radical" alt="anthua25" /></p>
   </td>
+  <td>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthuA25&theme=radical&hide_border=false" alt="anthua25" /></p>
+  </td>
+  
  </tr>
 </table>
 
